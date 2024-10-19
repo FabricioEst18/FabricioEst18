@@ -44,10 +44,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/FabricioEst18/FabricioEst18/output/snake.svg" alt="Snake animation" />
-
-###
-
 <h2 align="left">Social Media</h2>
 
 ###
